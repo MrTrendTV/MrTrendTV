@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MrTrendTV
+- 👋 Hi, I’m @TheMrTrend
 - 👀 I’m interested in ... Game Development
-- 🌱 I’m currently learning ... Python3
+- 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ... Game Development
-- 📫 How to reach me ... mrtrendgaming@gmail.com
+- 📫 How to reach me ... david.a.daniels324@gmail.com
 
 <!---
 MrTrendTV/MrTrendTV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
